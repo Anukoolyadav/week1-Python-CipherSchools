@@ -18,5 +18,5 @@ print(uname.title())
 # find, replace, center method
 print(name.center(len(name)+7,"*"))
 print(name.find(uname))
-print(replace:('a','A'))
+print(replace=('a','A'))
 # strings are immutable
